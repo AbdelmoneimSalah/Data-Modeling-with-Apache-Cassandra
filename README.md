@@ -25,6 +25,7 @@ For this project, I will  working with one dataset: event_data. The directory of
 ------------------------------------------------------------------------------
 ### Files
 * etl.ipynb
+* event_datafile_new.csv
 
 ---------------------------------------------------------------------------------
 ### Steps
